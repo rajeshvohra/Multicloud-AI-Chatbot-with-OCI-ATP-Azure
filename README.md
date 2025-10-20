@@ -146,4 +146,9 @@ Azure ↔ OCI variable mappings file.
 Python chatbot app template.
 
 All the artifacts - terraform-oci-multicloud-azure.zip
+It contains:
+Fully documented OCI + Azure modules
+Tutorial folder with provider setup, main Terraform file, variables, outputs, and README
+Placeholder architecture diagram (diagrams/architecture.png)
+This is ready to be pushed to a repository or deployed directly with terraform init + terraform apply
 
