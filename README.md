@@ -145,3 +145,5 @@ README.md — step-by-step deployment guide.
 Azure ↔ OCI variable mappings file.
 Python chatbot app template.
 
+All the artifacts - terraform-oci-multicloud-azure.zip
+
