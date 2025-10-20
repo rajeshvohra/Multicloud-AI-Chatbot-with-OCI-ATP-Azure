@@ -1,5 +1,11 @@
 # Multicloud-AI-Chatbot-with-OCI-ATP-Azure
-How to build AI Chatbot with OCI ATP Database on Azure Cloud 
+
+How to build AI Chatbot with OCI ATP Database on Azure Cloud. I have divided into three sections:
+1. OCI
+2. Azure
+3. Terraform.
+
+   
 High Level Architecture for OCI:
 Autonomous Database (ATP) -> main data + embeddings store.
 Oracle Object Storage -> for document ingestion.
@@ -13,7 +19,7 @@ Vector store -> Azure Cognitive Search (Free)	-> For retrieval layer
 Storage (Docs / PDFs)	-> Azure Blob Storage (Free)	-> For file ingestion
 Identity / Access	-> Azure AD + Managed Identity -> For Terraform-managed service principal
 
-High Level Architecture for Terrform:
+High Level Architecture for Terraform:
 terraform-oci-multicloud-azure/
   ├── modules/
   │   ├── oci/
