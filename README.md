@@ -1,6 +1,6 @@
 # Multicloud-AI-Chatbot-with-OCI-ATP-Azure
 
-Building an AI chatbot that spans Oracle Cloud Infrastructure (OCI) and Microsoft Azure might sound complicated — but it’s surprisingly approachable, even for non-technical folks. In this project, I used free-tier accounts from both OCI and Azure, proving that you can explore advanced multi-cloud architectures without spending a dime.
+Building an AI chatbot that spans Oracle Cloud Infrastructure (OCI) and Microsoft Azure might sound complicated but it is surprisingly approachable, even for non-technical folks. In this project, I used free-tier accounts from both OCI and Azure, proving that you can explore advanced multi-cloud architectures without spending a dime.
 The idea behind this project was simple: leverage OCI Autonomous Transaction Processing (ATP) as a secure and scalable database, and host the chatbot logic and user interface on Azure. This not only combines the strengths of both clouds but also demonstrates how easily these platforms can integrate.
 
 Although there are some technical steps involved, I’ve structured the project so it’s straightforward to follow, even if you’re new to cloud or AI development. The project is divided into three main sections:
